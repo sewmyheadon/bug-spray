@@ -1,5 +1,5 @@
 {
-  "name" : "ivycat/wordpress-starter-plugin",
+  "name"        : "ivycat/wordpress-starter-plugin",
   "description" : "Know the Code Starter Sandbox plugin.  Use this plugin for all of the Know the Code demo Labs and Docx.",
   "type" : "project",
   "keywords" : ["wordpress", "wp", "plugin"],
@@ -11,6 +11,9 @@
       "email" : "eric@ivycat.com"
     }
   ],
+  "suggest": {
+    "johnbillion/query-monitor": "Monitors database and cache queries as well as provides an awesome amount of information to help you."
+  },
   "require": {
     "php" : ">=5.4.0"
   },
