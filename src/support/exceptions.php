@@ -1,20 +1,24 @@
 <?php
 /**
- * Load up Whoops
+ * Exception handling with Whoops
  *
- * @package     IvyCat\Support
+ * @package     IvyCat
  * @since       1.0.0
  * @author      ivycat
  * @link        https://ivycat.com
  * @license     GPL-2.0+
  */
-namespace IvyCat\UpDevTools\Support;
+namespace IvyCat;
 
 use Whoops\Handler\PrettyPageHandler;
 use Whoops\Run;
 
-$whoops     = new Run();
-$error_page = new PrettyPageHandler();
-$error_page->setEditor( 'sublime' );
-$whoops->pushHandler( $error_page );
-$whoops->register();
+add_action( 'init', __NAMESPACE__ . '\load_whoops', 1);
+
+function load_whoops() {
+	$whoops     = new Run();
+	$error_page = new PrettyPageHandler();
+	$error_page->setEditor( 'sublime' );
+	$whoops->pushHandler( $error_page );
+	$whoops->register();
+}

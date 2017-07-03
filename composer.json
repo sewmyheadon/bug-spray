@@ -1,6 +1,6 @@
 {
   "name"        : "ivycat/wordpress-starter-plugin",
-  "description" : "Know the Code Starter Sandbox plugin.  Use this plugin for all of the Know the Code demo Labs and Docx.",
+  "description" : "Starter Sandbox plugin inspired by Know the Code.",
   "type" : "project",
   "keywords" : ["wordpress", "wp", "plugin"],
   "homepage" : "https://ivycat.com",
