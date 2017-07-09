@@ -25,9 +25,14 @@ Once activated you can use the following functions to help troubleshoot code:
 * `d()` - Dumps data
 * `ddd()` - Dumps data and dies
 
+When your PHP code has an error, Whoops will whip the error codes into a more helpful, readable format to make debugging easier.
+
+There's also a sandbox.php file in the `src` directory that you can use to try out code.
+
 ## Where to get help
 
 * Currently, there is no official documentation. Docs for [Composer](https://getcomposer.org/), [Kint](http://raveren.github.io/kint/), and [Whoops](https://github.com/filp/whoops) can be found on their respective sites. 
+* You can post issues here on Github.
 
 ## Contribution Guidelines
 Feel free to contribute pull requests.
