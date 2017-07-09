@@ -2,7 +2,7 @@
 
 ## Description
 
-_Bug Spray_ is a suite of developer tools including Kint, Whoops, and Composer.
+_Bug Spray_ is a WordPress plugin that contains a small suite of developer tools to make WordPress development and debugging easier and more fun.
 
 This plugin includes the following features:
 
@@ -11,7 +11,7 @@ This plugin includes the following features:
 3. [Whoops](https://github.com/filp/whoops) - Replaces default PHP orange error table with information you can actually use.
 
 ## Installation
-Composer must already be installed on your system.
+[Composer](https://getcomposer.org/) must already be installed on your system.
 
 1. Clone this project into a directory within `wp-content/plugins/`.
 1. Use Terminal to `cd` into the plugin directory and run `composer install`.
