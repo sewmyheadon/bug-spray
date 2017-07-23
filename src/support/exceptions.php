@@ -8,7 +8,7 @@
  * @link        https://ivycat.com
  * @license     GPL-2.0+
  */
-namespace IvyCat;
+namespace BugSpray;
 
 use Whoops\Handler\PrettyPageHandler;
 use Whoops\Run;
