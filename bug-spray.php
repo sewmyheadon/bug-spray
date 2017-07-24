@@ -18,24 +18,31 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-namespace BugSpray;
+namespace IvyCat\BugSpray;
+
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit( 'Cheating, eh?' );
 }
 
+/**
+ * Load Composer vendor packages
+ */
 require_once( __DIR__ . '/assets/vendor/autoload.php' );
 
+/**
+ * Launch
+ */
 add_action( 'init', __NAMESPACE__ . '\launch' );
 function launch() {
-	add_action( 'admin_enqueue_scripts', __NAMESPACE__ . '\ivycat_load_admin_styles' );
+	add_action( 'admin_enqueue_scripts', __NAMESPACE__ . '\load_admin_styles' );
 	add_action( 'wp_before_admin_bar_render', __NAMESPACE__ . '\remove_comment_bubble' );
 }
 
 /**
  * Load admin-only styles
  */
-function ivycat_load_admin_styles() {
+function load_admin_styles() {
 	wp_register_style( 'bug-spray-admin', plugins_url( 'bug-spray/assets/styles/admin-styles.css' ) );
 	wp_enqueue_style( 'bug-spray-admin' );
 }
