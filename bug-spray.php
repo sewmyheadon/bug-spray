@@ -10,7 +10,7 @@
  * Plugin Name: Bug Spray
  * Plugin URI:  https://ivycat.com/wordpress-plugins/
  * Description: Easily use Kint and Whoops to provide more helpful and attractive PHP errors and debug info. Requires Composer.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      IvyCat
  * Author URI:  https://ivycat.com
  * Text Domain: ivycat-plugin-name
