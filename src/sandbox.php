@@ -8,7 +8,7 @@
 * @link        https://ivycat.com
 * @license     GPL-2.0+
 */
-namespace BugSpray;
+namespace IvyCat\BugSpray\Sandbox;
 
 //add_action( 'loop_start', __NAMESPACE__ . '\demo' );
 /**
