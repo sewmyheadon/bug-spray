@@ -18,6 +18,10 @@ This plugin includes:
 1. Log into your WordPress site
 1. Activate the plugin.
 
+Once you have successfully installed and activated Bug Spray, your WordPress Admin bar will turn orange.
+
+![Bug Spray Admin Bar](https://raw.githubusercontent.com/sewmyheadon/bug-spray/development/assets/images/bug-spray-admin-bar.png)
+
 ## Usage
 
 Once activated you can use the following functions to help troubleshoot code:
