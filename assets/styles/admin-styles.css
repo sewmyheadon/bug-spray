@@ -1,6 +1,7 @@
 /**
-Change color of WP Menu bar
+ * Change color of WP Menu bar
  */
+
 #wpadminbar {
     background-color: #CB470D;
 }

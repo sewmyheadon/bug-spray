@@ -3,7 +3,7 @@
  *
  * @package     IvyCat
  * @author      Eric Amundson <eric@ivycat.com>
- * @copyright   2018 IvyCat, Inc.
+ * @copyright   2019 IvyCat, Inc.
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
