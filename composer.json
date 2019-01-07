@@ -1,6 +1,6 @@
 {
 	"name": "sewmyheadon/bug-spray",
-	"description": "Starter Sandbox plugin inspired by Know the Code.",
+	"description": "Bug Spray is a WordPress plugin that contains a small suite of developer tools to make WordPress development and debugging easier and more fun.",
 	"type": "project",
 	"keywords": [
 		"wordpress",

@@ -1,5 +1,5 @@
-=== Bug Spray # ===
-**Contributors:** @sewmyheadon, @ivycatweb
+=== Bug Spray ===
+**Contributors:** @sewmyheadon
 **Tags:** development, tools, dev tools
 **Requires at least:** 4.5  
 **Tested up to:** 5.0.2  
