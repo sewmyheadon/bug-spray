@@ -1,11 +1,11 @@
 # Bug Spray #
-- **Contributors:** @sewmyheadon
-- **Tags:** development, tools, dev tools
-- **Requires at least:** 4.5  
-- **Tested up to:** 5.0.2  
-- **Stable tag:** 1.0.5
-- **License:** GPLv2 or later  
-- **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
+**Contributors:** [@sewmyheadon](https://profiles.wordpress.org/@sewmyheadon)  
+**Tags:** development, tools, dev tools
+**Requires at least:** 4.5  
+**Tested up to:** 5.0.2  
+**Stable tag:** 1.0.5
+**License:** GPLv2 or later  
+**License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
 ## Description ##
 
@@ -56,4 +56,5 @@ This plugin is inspired by Tonya Mork of [KnowTheCode](https://github.com/KnowTh
 ## License ##
 GPL v2 license. See LICENSE for full details.
 
+## Code Quality ##
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sewmyheadon/bug-spray/badges/quality-score.png?b=development)](https://scrutinizer-ci.com/g/sewmyheadon/bug-spray/?branch=development)
