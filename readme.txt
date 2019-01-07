@@ -27,15 +27,33 @@ This plugin includes:
 1. Log into your WordPress site
 1. Activate the plugin.
 
+Once you have installed and activated Bug Spray, your WordPress Admin bar will turn orange.
+
+![Bug Spray Admin Bar](https://raw.githubusercontent.com/sewmyheadon/bug-spray/development/assets/images/bug-spray-admin-bar.png)
+
 == Usage ==
+
+= Kint =
+
+[Kint](https://github.com/kint-php/kint) is debugging tool for PHP developers.
+
+> Kint is (not) just a pretty replacement for **[var_dump()](https://secure.php.net/function.var_dump)**, **[print_r()](https://secure.php.net/function.print_r)** and **[debug_backtrace()](https://secure.php.net/function.debug_backtrace)**
 
 Once activated you can use the following functions to help troubleshoot code:
 
 * `d()` - Dumps data
 * `ddd()` - Dumps data and dies
 
-When your PHP code has an error, Whoops will whip the error codes into a more helpful, readable format to make debugging easier.
+Just wrap these functions around a variable and you'll get a nicer visual presentation of the variable data.
 
+![Kint](https://raw.githubusercontent.com/sewmyheadon/bug-spray/development/assets/images/kint.png)
+
+= Whoops =
+When your PHP code has an error, [Whoops](https://github.com/filp/whoops) will whip the error codes into a more helpful, readable format to make debugging easier.
+
+![Whoops](https://raw.githubusercontent.com/sewmyheadon/bug-spray/development/assets/images/whoops.png)
+
+= Sandbox =
 There's also a sandbox.php file in the `src` directory that you can use to try out code.
 
 == Where to get help ==
