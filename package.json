@@ -1,0 +1,11 @@
+{
+  "name": "bug-spray",
+  "version": "1.0.4",
+  "main": "Gruntfile.js",
+  "author": "Eric Amundson",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-wp-i18n": "~0.5.0",
+    "grunt-wp-readme-to-markdown": "~1.0.0"
+  }
+}

@@ -1,12 +1,13 @@
+# Compressed files
+*.tar.gz
+*.zip
 
 # Unit tests config
 phpunit.xml
+phpcs.xml
 .travis.yml
 /bin
 tests/mocks/env/
-
-# Composer
-composer.lock
 
 # Sass cache
 .sass-cache/
@@ -14,6 +15,29 @@ composer.lock
 # Development files
 /node_modules
 /assets/vendor/
-
-.idea/
+composer.lock
 *.log
+
+# Editors
+.idea/
+*.esproj
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+*.swp
+wp-cli.local.yml
+*.sql
+
+# Mac OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+dev.log

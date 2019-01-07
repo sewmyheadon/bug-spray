@@ -1,4 +1,4 @@
-# Bug Spray # #
+=== Bug Spray # ===
 **Contributors:** @sewmyheadon, @ivycatweb
 **Tags:** development, tools, dev tools
 **Requires at least:** 4.5  
@@ -7,7 +7,7 @@
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
-## Description ##
+== Description ==
 
 _Bug Spray_ is a WordPress plugin that contains a small suite of developer tools to make WordPress development and debugging easier and more fun.
 
@@ -18,7 +18,7 @@ This plugin includes:
 3. [Whoops](https://github.com/filp/whoops) - Replaces default PHP orange error table with information you can actually use.
 4. [Grunt](https://gruntjs.com/) - Used only if you wish to help develop this plugin further. Grunt is used for i18n and readme.txt to readme.md conversion.
 
-## Installation ##
+== Installation ==
 [Composer](https://getcomposer.org/) must already be installed on your system.
 
 1. Clone this project into a directory within `wp-content/plugins/`.
@@ -27,7 +27,7 @@ This plugin includes:
 1. Log into your WordPress site
 1. Activate the plugin.
 
-## Usage ##
+== Usage ==
 
 Once activated you can use the following functions to help troubleshoot code:
 
@@ -38,20 +38,20 @@ When your PHP code has an error, Whoops will whip the error codes into a more he
 
 There's also a sandbox.php file in the `src` directory that you can use to try out code.
 
-## Where to get help ##
+== Where to get help ==
 
 * Currently, there is no official documentation. Docs for [Composer](https://getcomposer.org/), [Kint](http://raveren.github.io/kint/), and [Whoops](https://github.com/filp/whoops) can be found on their respective sites. 
 * You can post issues here on Github.
 
-## Contribution Guidelines ##
+== Contribution Guidelines ==
 Feel free to contribute pull requests.
 
-## Contributor List ##
+== Contributor List ==
 * [sewmyheadon](https://github.com/sewmyheadon)
 * [KnowTheCode](https://github.com/KnowTheCode)
 
-## Credits, Inspiration, Alternatives ##
+== Credits, Inspiration, Alternatives ==
 This plugin is inspired by Tonya Mork of [KnowTheCode](https://github.com/KnowTheCode), who has a great tutorial on building [this plugin](https://github.com/KnowTheCode/WordPress-Starter-Plugin-Lab) on [KnowTheCode.io](https://knowthecode.io/).
 
-## License ##
+== License ==
 GPL v2 license. See LICENSE for full details.
