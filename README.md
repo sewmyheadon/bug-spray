@@ -1,11 +1,11 @@
 # Bug Spray #
-- **Contributors:** @sewmyheadon
-- **Tags:** wordpress, development, tools, dev tools
-- **Requires at least:** 4.5  
-- **Tested up to:** 5.0.2  
-- **Stable tag:** 1.0.4  
-- **License:** GPLv2 or later  
-- **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
+**Contributors:** @sewmyheadon
+**Tags:** development, tools, dev tools
+**Requires at least:** 4.5  
+**Tested up to:** 5.0.2  
+**Stable tag:** 1.0.5
+**License:** GPLv2 or later  
+**License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
 ## Description ##
 
