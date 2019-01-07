@@ -55,3 +55,6 @@ This plugin is inspired by Tonya Mork of [KnowTheCode](https://github.com/KnowTh
 
 == License ==
 GPL v2 license. See LICENSE for full details.
+
+== Code Quality ==
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sewmyheadon/bug-spray/badges/quality-score.png?b=development)](https://scrutinizer-ci.com/g/sewmyheadon/bug-spray/?branch=development)
