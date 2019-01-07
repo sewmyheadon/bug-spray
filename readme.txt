@@ -14,7 +14,7 @@ _Bug Spray_ is a WordPress plugin that contains a small suite of developer tools
 This plugin includes:
 
 1. [Composer](https://getcomposer.org/) - Manage PHP dependencies.
-2. [Kint](http://raveren.github.io/kint/) - Helpful replacement for [var_dump()](http://php.net/manual/en/function.var-dump.php), [print_r()](http://php.net/manual/en/function.print-r.php) and [debug_backtrace()](http://php.net/manual/en/function.debug-backtrace.php).
+2. [Kint](https://github.com/kint-php/kint) - Helpful replacement for [var_dump()](http://php.net/manual/en/function.var-dump.php), [print_r()](http://php.net/manual/en/function.print-r.php) and [debug_backtrace()](http://php.net/manual/en/function.debug-backtrace.php).
 3. [Whoops](https://github.com/filp/whoops) - Replaces default PHP orange error table with information you can actually use.
 4. [Grunt](https://gruntjs.com/) - Used only if you wish to help develop this plugin further. Grunt is used for i18n and readme.txt to readme.md conversion.
 
