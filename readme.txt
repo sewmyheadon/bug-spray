@@ -58,8 +58,8 @@ There's also a sandbox.php file in the `src` directory that you can use to try o
 
 == Where to get help ==
 
-* Currently, there is no official documentation. Docs for [Composer](https://getcomposer.org/), [Kint](http://raveren.github.io/kint/), and [Whoops](https://github.com/filp/whoops) can be found on their respective sites. 
-* You can post issues here on Github.
+* Currently, this is the official documentation. Docs for [Composer](https://getcomposer.org/), [Kint](https://github.com/kint-php/kint), and [Whoops](https://github.com/filp/whoops) can be found on their respective sites.
+* You can [post issues on Github](https://github.com/sewmyheadon/bug-spray/issues).
 
 == Contribution Guidelines ==
 Feel free to contribute pull requests.
