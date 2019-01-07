@@ -62,7 +62,7 @@ There's also a sandbox.php file in the `src` directory that you can use to try o
 * You can [post issues on Github](https://github.com/sewmyheadon/bug-spray/issues).
 
 == Contribution Guidelines ==
-Feel free to contribute pull requests.
+Feel free to [contribute pull requests](https://github.com/sewmyheadon/bug-spray/pulls).
 
 == Contributor List ==
 * [sewmyheadon](https://github.com/sewmyheadon)
@@ -72,7 +72,7 @@ Feel free to contribute pull requests.
 This plugin is inspired by Tonya Mork of [KnowTheCode](https://github.com/KnowTheCode), who has a great tutorial on building [this plugin](https://github.com/KnowTheCode/WordPress-Starter-Plugin-Lab) on [KnowTheCode.io](https://knowthecode.io/).
 
 == License ==
-GPL v2 license. See LICENSE for full details.
+GPL v2 license. See LICENSE file for full details.
 
 == Code Quality ==
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sewmyheadon/bug-spray/badges/quality-score.png?b=development)](https://scrutinizer-ci.com/g/sewmyheadon/bug-spray/?branch=development)

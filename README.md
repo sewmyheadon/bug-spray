@@ -62,7 +62,7 @@ There's also a sandbox.php file in the `src` directory that you can use to try o
 * You can [post issues on Github](https://github.com/sewmyheadon/bug-spray/issues).
 
 ## Contribution Guidelines ##
-Feel free to contribute pull requests.
+Feel free to [contribute pull requests](https://github.com/sewmyheadon/bug-spray/pulls).
 
 ## Contributor List ##
 * [sewmyheadon](https://github.com/sewmyheadon)
